@@ -10,6 +10,6 @@ I'm a second-year Information Technology student at New Era University, interest
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/9064045450c34b5fb03786735658f5e7)
 
 ## ⚙️ Skill Sets
--Programming: Java, SQL
--Database: IBM DB2 Cloud
--Tools: Lucidchart, Figma, Eclipse 
+- Programming: Java, SQL
+- Database: IBM DB2 Cloud
+- Tools: Lucidchart, Figma, Eclipse 
