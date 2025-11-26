@@ -1,4 +1,4 @@
-# 👋Hi there, I'm Diana Dela Cruz!
+# 👋Hi there, I'm Diana Yvonne Margaret Dela Cruz!
 I'm a second-year Information Technology student at New Era University, interested in SQL databases and learning front-end web design with Figma.
 
 ## 🎓 Education
