@@ -16,13 +16,10 @@ I'm a second-year Information Technology student at New Era University, interest
 
 ## ⚙️ Skill Sets
 - Programming:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Database-icon.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Database-icon.svg/512px-Database-icon.svg.png" width="60" height="60"/>
 - Database: 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/IBM_DB2_logo.svg" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/IBM_DB2_logo.svg/512px-IBM_DB2_logo.svg.png" width="60" height="60"/>
 - Tools:
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Lucidchart_logo.svg" width="60" height="60"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/>
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="60" height="60"/>
-          
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Lucidchart_logo.svg/512px-Lucidchart_logo.svg.png" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="60" height="60"/>
            
            
