@@ -1,5 +1,5 @@
 # 👋Hi there, I'm Diana Yvonne Margaret Dela Cruz!
-I'm a second-year Information Technology student at New Era University, interested in SQL databases and learning front-end web design with Figma.
+A second-year BS Information Technology student at New Era University, interested in SQL databases and with a strong foundation in database  Figma.
 
 ## 🎓 Education
 - BS Information Technology
@@ -17,7 +17,13 @@ I'm a second-year Information Technology student at New Era University, interest
 
 ## ⚙️ Skill Sets
 - Programming: Java, SQL, NoSQL, Python
-- Database: IBM DB2 Cloud
-- Tools: Lucidchart, Figma, Eclipse
+- Database: IBM DB2 Cloud, MongoDB
+- Data & ETL: Pentaho
+- Tools: Lucidchart, Figma, Eclipse, Pycharm
+
+You may reach me at:
+LinkedIn: www.linkedin.com/in/diana-dela-cruz
+Email: dianadelacruz021605@gmail.com
+
            
            
