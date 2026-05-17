@@ -22,7 +22,7 @@ I am an IT student with a strong foundation in database management and cloud tec
 - Tools: Lucidchart, Figma, Eclipse, Pycharm
 
 ## 📫 You may reach me at:
-- LinkedIn: [diana-dela-cruz](www.linkedin.com/in/diana-dela-cruz)
+- LinkedIn: www.linkedin.com/in/diana-dela-cruz
 - Email: dianadelacruz021605@gmail.com
 
            
