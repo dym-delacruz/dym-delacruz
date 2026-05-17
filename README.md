@@ -1,5 +1,5 @@
 # 👋Hi there, I'm Diana Yvonne Margaret Dela Cruz!
-A second-year BS Information Technology student at New Era University, interested in SQL databases and with a strong foundation in database  Figma.
+I am Diana Yvonne Margaret Dela Cruz, with a strong foundation in database management and cloud technologies. I thrive on exploring and understanding data, turning it into something meaningful. My journey in tech began when I took the BS Information Technology program at New Era University, where I have since developed skills in SQL, NoSQL, ETL processes, and cloud platforms, while also nurturing a growing interest in front-end design through Figma.
 
 ## 🎓 Education
 - BS Information Technology
