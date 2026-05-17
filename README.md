@@ -21,7 +21,7 @@ A second-year BS Information Technology student at New Era University, intereste
 - Data & ETL: Pentaho
 - Tools: Lucidchart, Figma, Eclipse, Pycharm
 
-###You may reach me at:
+## 📫 You may reach me at:
 - LinkedIn: www.linkedin.com/in/diana-dela-cruz
 - Email: dianadelacruz021605@gmail.com
 
